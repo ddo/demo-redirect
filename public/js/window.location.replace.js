@@ -1,0 +1,1 @@
+window.location.replace("/public/window.location.replace.landing.html");
