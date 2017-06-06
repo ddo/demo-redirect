@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/ddo/demo-redirect",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": []
+}
